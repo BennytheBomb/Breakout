@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{46503B3F-F2BD-8020-1211-66CB9D8505F8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ball.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bricks.cs">
     <Files>
-      <File FileName="Assets/Scripts/Paddle.cs" Line="13" Column="39" />
-      <File FileName="Assets/Scripts/Ball.cs" Line="26" Column="79" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="36" Column="73" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="17" Column="38" />
+      <File FileName="Assets/Scripts/Deadzone.cs" Line="9" Column="41" />
+      <File FileName="Assets/Scripts/Bricks.cs" Line="7" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

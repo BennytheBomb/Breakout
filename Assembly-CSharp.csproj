@@ -63,6 +63,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Ball.cs" />
+    <Compile Include="Assets\Scripts\Bricks.cs" />
+    <Compile Include="Assets\Scripts\Deadzone.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\Paddle.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/benjamindaniel/Projects/Unity-Projekte/Breakout 2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
