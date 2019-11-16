@@ -6,4 +6,4 @@ Watch Gameplay here:\
 alt="Breakout full game" width="240" height="180" border="10" /></a>
 
 Play it here:
-<iframe frameborder="0" src="https://itch.io/embed/517733" width="552" height="167"></iframe>
+https://bennydiebombe.itch.io/breakout
